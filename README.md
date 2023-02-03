@@ -1,4 +1,4 @@
-# React Portfolio, Multiple pages
+# React Portfolio
 
 ## Features
 
@@ -38,15 +38,6 @@
 
 • If you want to replace Icons then visit: https://react-icons.github.io/react-icons/
      
-
-## Illustrations
-
-•   https://storyset.com/web
-•   https://storyset.com/nature
-
----
-
-After all necessary changes, you can commit and push your changes to your forked repository, and deploy however you like.
 
 
 
