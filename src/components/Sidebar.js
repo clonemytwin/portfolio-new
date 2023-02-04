@@ -59,7 +59,7 @@ function Sidebar() {
                             <li> <hr className="dropdown-divider"/> </li>
                             <li><a className="dropdown-item text-black" href="https://github.com/clonemytwin" target="/blank"><AiFillGithub className='fs-5'/> Github</a></li>
                             <li> <hr className="dropdown-divider"/> </li>
-                            <li><a className="dropdown-item text-black" href="https://github.com/clonemytwin" target="/blank"><VscAccount className='fs-5'/> Account</a></li>
+                            <li><a className="dropdown-item text-black" href="https://github.com/clonemytwin" target="/blank"><VscAccount className='fs-5'/> Resume</a></li>
                         </ul>
                     </div>
                 </div>
